@@ -1,5 +1,5 @@
 # IPSO-WIN
-Config files for my GitHub profile.
+Real '90 original software for regression analyses
 
 
 ==============================================================
