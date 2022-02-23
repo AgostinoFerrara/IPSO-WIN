@@ -13,7 +13,7 @@ Real '90 original software for regression analyses
       II       II              II       II     II       II
      IIII      II                IIIIIII        IIIIIIII
 
-==================================Source code by Agostino Ferrara(c)==
+=================================Source code by Agostino Ferrara(c)==
 
 Windows version
 
