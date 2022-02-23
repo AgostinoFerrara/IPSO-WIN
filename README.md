@@ -1,6 +1,6 @@
 # IPSO-WIN
-Real '90 original software for regression analyses
-
+Real '90 original software for regression analyses,
+to experience the thrill of 80s software, and more...
 
 ==============================================================
 
@@ -19,8 +19,8 @@ Windows version
 
 This is a restored version of the IPSO V.2.1 program, 
 developed in 1988-90.  
-It is NOT an update. The beaviour and 
-feeling of the original version have been deliberately 
+It is NOT an update. 
+The beaviour and feeling of the original version have been deliberately 
 retained.
 
 ==============================================================
