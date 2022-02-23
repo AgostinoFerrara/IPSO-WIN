@@ -1,7 +1,7 @@
 # IPSO-WIN
 Real '90 original software  for regression analyses,
 to experience the thrill of 80s software, and more...
-
+ 
 ==============================================================
 
      IIII      IIIIIIIII         IIIIIII        IIIIIIII  
