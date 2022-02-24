@@ -22,6 +22,7 @@ developed in 1988-90.  It is NOT an update, so the beaviour
 of the original version have been deliberately retained.   
 
 ==============================================================  
+IPSO was written in GW-Basic 1.1    
 The compiler used for the WIN executable is QB64 v2.0.2:    
 https://github.com/QB64Team/qb64/releases      
 
