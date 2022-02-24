@@ -1,6 +1,6 @@
 # IPSO-WIN
-Original, restored software for regression analyses, to    
-experience the thrill of 80's programs, and more...   
+Original, restored software for regression analyses.      
+To experience the thrill of 80's programs, and more...   
  
 ==============================================================
 
@@ -23,7 +23,7 @@ of the original version have been deliberately retained.
 
 ==============================================================  
 IPSO was written in GW-Basic 1.1    
-The compiler used for the WIN executable is QB64 v2.0.2:    
+The compiler used for this WIN executable is QB64 v2.0.2:    
 https://github.com/QB64Team/qb64/releases      
 
 IPSO is an 'executable' and could be seen by windows as a   
@@ -38,8 +38,8 @@ with command-line commands. To open the enclosed  DATI.IPS
 example file, input, when asked, the name without extension.   
   
 xxxxx.IPS files use a comma separated values format (use   
-DATI.IPS as reference to copy and paste other datasets through    
-a simple text editor. Be sure to store data files as simple    
+DATI.IPS as reference to copy and paste other datasets with    
+a simple text editor). Be sure to store data files as simple    
 plain text (so set this in text editor preferences).   
   
 Printer outputs are not anymore working.   
