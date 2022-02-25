@@ -1,5 +1,5 @@
 # IPSO-WIN
-Original, restored software for regression analyses.      
+A restored software for hypso-diametric regression analyses.      
 To experience the thrill of 80's programs, and more...   
  
 ==============================================================
