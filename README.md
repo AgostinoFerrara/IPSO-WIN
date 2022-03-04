@@ -38,9 +38,9 @@ commands.  When prompted, enter the name DATI (without the
 extension) to open the enclosed DATI.IPS example file.    
   
 xxxxx.IPS files use a comma separated values format with an      
-information header. Look at DATI.IPS to built similar files     
-through any text editor or read the enclosed file 'How to     
-import data from excel'.      
+information header. Look at DATI.IPS (to built similar files through      
+any text editor) or to excel.IPS file. Read also the enclosed file      
+'How to import data from excel'.     
   
 Printer outputs are not anymore working.   
    
